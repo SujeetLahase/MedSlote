@@ -4,7 +4,7 @@
 
 MedSlote is a web-based **Doctor Appointment Booking System** developed using **Java, JSP, Servlets, JDBC, and MySQL**. The system allows patients to register, log in, view doctors, check available time slots, and book appointments. Doctors can manage their availability and view patient appointments. The project follows the **MVC architecture**.
 
----
+
 
 ## 🎯 Objectives
 
