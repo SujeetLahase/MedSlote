@@ -13,7 +13,7 @@ MedSlote is a web-based **Doctor Appointment Booking System** developed using **
 * Prevent double booking of time slots
 * Maintain secure login using sessions
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -23,7 +23,7 @@ MedSlote is a web-based **Doctor Appointment Booking System** developed using **
 * **Server:** Apache Tomcat 9
 * **IDE:** Netbean IDEA 
 
----
+
 
 ## 👥 User Roles
 
@@ -46,7 +46,7 @@ MedSlote is a web-based **Doctor Appointment Booking System** developed using **
 * Add doctors
 * View all appointments
 
----
+
 
 ## 🔄 Application Workflow
 
@@ -56,16 +56,16 @@ MedSlote is a web-based **Doctor Appointment Booking System** developed using **
 4. Appointment is booked and stored in database
 5. Doctor views and manages appointments
 
----
+
 
 ## 🗄️ Database Tables
 
 * `users` – patient details
 * `doctors` – doctor information
-* `doctor_schedule` – doctor availability
+* `doctor_slots ` – doctor availability
 * `appointments` – appointment records
+*  `password_reset_otp` – Reset Password
 
----
 
 
 ## 🔐 Security Features
@@ -74,7 +74,7 @@ MedSlote is a web-based **Doctor Appointment Booking System** developed using **
 * Role-based access control
 * Input validation
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -85,7 +85,7 @@ MedSlote is a web-based **Doctor Appointment Booking System** developed using **
 5. Deploy on Apache Tomcat
 6. Access via browser
 
----
+
 
 ## 📌 Future Enhancements
 
@@ -94,13 +94,13 @@ MedSlote is a web-based **Doctor Appointment Booking System** developed using **
 * Spring Boot migration
 * REST API support
 
----
+
 
 ## 👨‍💻 Author
 
 **Sujeet Lahase**
 
----
+
 
 ## 📄 License
 
